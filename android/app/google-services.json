@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179474953075",
+    "project_id": "clinic-appoint-app-1cb2c",
+    "storage_bucket": "clinic-appoint-app-1cb2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179474953075:android:ee0f483797d2baaa618b06",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179474953075-uaepe3qdbqapvk81impcjahcu8j2c7s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhtkqgS6jz9mdXbUgQhsDU7fbSd-shJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179474953075-uaepe3qdbqapvk81impcjahcu8j2c7s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
